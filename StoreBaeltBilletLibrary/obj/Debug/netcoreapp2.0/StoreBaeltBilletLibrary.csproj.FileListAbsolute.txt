@@ -1,0 +1,13 @@
+C:\Source\StoreBaeltBilletLibrary\StoreBaeltBilletLibrary\bin\Debug\netcoreapp2.0\StoreBaeltBilletLibrary.xml
+C:\Source\StoreBaeltBilletLibrary\StoreBaeltBilletLibrary\bin\Debug\netcoreapp2.0\StoreBaeltBilletLibrary.deps.json
+C:\Source\StoreBaeltBilletLibrary\StoreBaeltBilletLibrary\bin\Debug\netcoreapp2.0\StoreBaeltBilletLibrary.dll
+C:\Source\StoreBaeltBilletLibrary\StoreBaeltBilletLibrary\bin\Debug\netcoreapp2.0\StoreBaeltBilletLibrary.pdb
+C:\Source\StoreBaeltBilletLibrary\StoreBaeltBilletLibrary\bin\Debug\netcoreapp2.0\BilletLibrary.dll
+C:\Source\StoreBaeltBilletLibrary\StoreBaeltBilletLibrary\bin\Debug\netcoreapp2.0\BilletLibrary.xml
+C:\Source\StoreBaeltBilletLibrary\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.0\StoreBaeltBilletLibrary.csprojResolveAssemblyReference.cache
+C:\Source\StoreBaeltBilletLibrary\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.0\StoreBaeltBilletLibrary.csproj.CoreCompileInputs.cache
+C:\Source\StoreBaeltBilletLibrary\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.0\StoreBaeltBilletLibrary.AssemblyInfoInputs.cache
+C:\Source\StoreBaeltBilletLibrary\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.0\StoreBaeltBilletLibrary.AssemblyInfo.cs
+C:\Source\StoreBaeltBilletLibrary\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.0\StoreBaeltBilletLibrary.csproj.CopyComplete
+C:\Source\StoreBaeltBilletLibrary\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.0\StoreBaeltBilletLibrary.dll
+C:\Source\StoreBaeltBilletLibrary\StoreBaeltBilletLibrary\obj\Debug\netcoreapp2.0\StoreBaeltBilletLibrary.pdb

@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BilletLibrary</name>
+    </assembly>
+    <members>
+        <member name="M:BilletLibrary.Bil.#ctor(System.String)">
+            <summary>   
+            Objekt Bil.
+            </summary>
+            <param name="nummerplade"></param>
+        </member>
+        <member name="M:BilletLibrary.Bil.Pris(System.Boolean)">
+            <summary>
+            Returnere prisen på en billet.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BilletLibrary.Bil.KøretøjType">
+            <summary>
+            Returnere typen på køretøjet.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BilletLibrary.Køretøj.Pris(System.Boolean)">
+            <summary>
+            Returnere prisen på en billet.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BilletLibrary.Køretøj.KøretøjType">
+            <summary>
+            Returnere typen på køretøjet.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BilletLibrary.Køretøj.TjekNummerplade">
+            <summary>
+            Tjekker om nummerpladen er over 7 tegn.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BilletLibrary.MC.#ctor(System.String)">
+            <summary>   
+            Objekt Motor Cykle.
+            </summary>
+            <param name="nummerplade"></param>
+        </member>
+        <member name="M:BilletLibrary.MC.Pris(System.Boolean)">
+            <summary>
+            Returnere prisen på en billet.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BilletLibrary.MC.KøretøjType">
+            <summary>
+            Returnere typen på køretøjet.
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

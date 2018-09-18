@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>StoreBaeltBilletLibrary</name>
+    </assembly>
+    <members>
+        <member name="M:StoreBaeltBilletLibrary.StoreBaeltBilletLibrary.WeekendPris(System.Boolean)">
+            <summary>   
+            Weekend pris tjekker om det er weekend og giver 20% rabat.
+            </summary>
+        </member>
+    </members>
+</doc>
